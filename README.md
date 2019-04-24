@@ -1,6 +1,6 @@
 # bangalore_health
 
-A new Flutter project.
+>Project for Build A Thon
 
 ## Getting Started
 
